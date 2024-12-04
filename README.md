@@ -1,5 +1,5 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 김신범입니다!👋</h2>
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 꾸준히 새로운 것을 학습하며 더 좋은 구현 방법이 있는 지 고민합니다! </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 꾸준히 새로운 것을 학습하며 더 좋은 방법이 있을 지 고민합니다! </div> 
 </div>
 <br>
 
