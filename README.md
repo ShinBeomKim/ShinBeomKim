@@ -3,8 +3,8 @@
 </div>
 <h2>✏️Tech Stacks </h2>
 <h4>⭐자주 사용⭐</h4>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,mysql,git,gitlab" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,mysql,git" />
 <h4>⭐1 ~ 2번 사용⭐</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,redis,docker,fastapi,flask,jenkins,kafka,linux" />
+<img src="https://skillicons.dev/icons?i=js,vue,redis,docker,fastapi,flask,jenkins,kafka" />
 <h2>🛠️Tools</h2>
 <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,notion,postman" />
